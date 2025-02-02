@@ -26,12 +26,15 @@ QCM’s leadership now faces a series of high-stakes decisions:
 **Conclusion:**  
 QCM stands at a crossroads where each decision could make or break the firm. The leadership must balance immediate survival with long-term viability while managing the expectations of investors, regulators, and internal stakeholders. The case study presents a real-world scenario requiring financial acumen, strategic foresight, and crisis management skills.
 
-**Subjective Questions:**  
+**Questions:**  
 1. If you were the CEO of QCM, would you recommend deleveraging immediately or maintaining positions in anticipation of a market correction? Justify your decision using financial and strategic reasoning.
 2. How should QCM structure its investor communications to mitigate redemption pressures while maintaining transparency?
 3. Given the regulatory inquiry by the SEC, what risk management improvements should QCM implement to avoid future scrutiny and failures?
 4. What lessons can be learned from historical hedge fund failures, such as LTCM, and how can QCM apply these insights to its current predicament?
 5. If you were an institutional investor in QCM, what factors would determine whether you continue your investment or withdraw your funds? What due diligence measures would you undertake?
+
+
+---
 
 **Answers:**
 
